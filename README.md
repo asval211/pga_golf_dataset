@@ -36,13 +36,13 @@ This visuals x-axis is the predicted values and the y-axis is the true values fo
 ![graph4](./images/Finalmodelscatter.png)
 
 
-During development we used a basic baseline model for all of our three models which yeilded various scores including accuracy, precision and recall based on which was the appropriate score for the model. As a starting point for all our models to refer back to and make decisions based upon these baseline models. 
+During development we used a basic baseline model for all of our three models which yielded various scores including accuracy, precision and recall based on which was the appropriate score for the model. As a starting point for all our models to refer back to and make decisions based upon these baseline models. 
 
 
 ## Results
-After a good amount of trial and error in the money model, we arrived at our final advanced XGBoost model which yeilded an Accuracy score: for training = .956, validation = .955, and test = .921; as well as a Precision score: for training = .965, validation = .971, and test = .935; followed by a Recall score: for training = .946, validation = .935, and test = .91.
+After a good amount of trial and error in the money model, we arrived at our final advanced XGBoost model which yielded an Accuracy score: for training = .956, validation = .955, and test = .921; as well as a Precision score: for training = .965, validation = .971, and test = .935; followed by a Recall score: for training = .946, validation = .935, and test = .91.
 
-After creating a decent baseline model for winners, we arrived at a final Support Vector Machine model which yeilded an Accuracy score: for training = .894, validation = .895, and test = .895
+After creating a decent baseline model for winners, we arrived at a final Support Vector Machine model which yielded an Accuracy score: for training = .894, validation = .895, and test = .895
 
 As for our last model on points, the baseline was not very helpful so we had a lot of work to do and ultimatly landed on a GridSearch using a Decission Tree that gave us an Accuracy score: fot training = .897, validation = .830, and test = .780
 
