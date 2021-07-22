@@ -36,7 +36,7 @@ This visuals x-axis is the predicted values and the y-axis is the true values fo
 ![graph4](./images/Finalmodelscatter.png)
 
 
-During development we used a basic baseline model for all of our three models which yeilded various scores(accuracy, precision and recall) based on which was the appropriate score for the model. As a starting point for all our models to refer back to and make decisions based upon these baseline models. 
+During development we used a basic baseline model for all of our three models which yeilded various scores including accuracy, precision and recall based on which was the appropriate score for the model. As a starting point for all our models to refer back to and make decisions based upon these baseline models. 
 
 
 ## Results
