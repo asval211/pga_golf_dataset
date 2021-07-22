@@ -9,11 +9,11 @@ The goal of this project is to create the best models for owners of a small comp
 Small company would like to sponsor a golfer and needs to know how impactful their season will be. To help them in this area, we will create multiple models to help predict different targets (money, points, and winners) in order to help them in this decision proccess.
 
 ## Data
-We examined data on rounds, gir, average_putts, average_scrambling, average_score, points, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, distance_fairway, winners against **money**.
+We examined data on rounds, gir, average_putts, average_scrambling, average_score, points, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, distance_fairway, and winners against **money**.
 
-We examined data on rounds, fairway_percentage, year, avg_distance, gir, average_putts, average_scrambling, average_score, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, money against **winners**.
+We examined data on rounds, fairway_percentage, year, avg_distance, gir, average_putts, average_scrambling, average_score, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, and money against **winners**.
 
-We also examined data on ounds, gir, average_putts, average_scrambling, average_score, money, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, distance_fairway, winners against **point_range**.
+We also examined data on rounds, gir, average_putts, average_scrambling, average_score, money, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, distance_fairway, and winners against **point_range**.
 
 
 ## Methods
