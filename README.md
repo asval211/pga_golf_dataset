@@ -17,7 +17,7 @@ We also examined data on rounds, gir, average_putts, average_scrambling, average
 
 
 ## Methods
-Our process started with exploring the data set provided to obtain a stronger understanding of what information we were working with. After some initial analysis of the data replaced a small handful of null values, combining columns in various ways to give us a new featured engeneered column, and changed the datatypes for some of the columns in the data set.
+Our process started with exploring the data set provided to obtain a stronger understanding of what information we were working with. After some initial analysis of the data, we replaced a small handful of null values, combined columns in various ways to give us a new featured engineered column, and changed the datatypes for some of the columns in the data set.
 
 This visualization shows the three most correlated values to Money.
 
