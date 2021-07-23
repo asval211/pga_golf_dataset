@@ -25,7 +25,7 @@ This visualization shows the three most correlated values to **money**.
 
 This visualization shows the amount of money earned by winners and non-winners in a given year.
 
-![graph2](./images/Money bywinners:nonwinnersbox.png)
+![graph2](./images/Moneybywinners:nonwinnersbox.png)
 
 This visualization shows the amount of points accumulated by winners and non-winners in a given year.
 
