@@ -53,7 +53,7 @@ After many models and trials, we created three final models. The models created 
 
 
 ## For More Information
-Please review our full analysis in [our Jupyter Notebook Money](./report.ipynb), [our Jupyter Notebook Winners](./report.ipynb), [our Jupyter Notebook Points](./report.ipynb) or our [presentation](./microsoftmovieanalysispowerpoint.pdf).
+Please review our full analysis in [our Jupyter Notebook Money](./notebooks/report/Final_Money.ipynb), [our Jupyter Notebook Winners](./notebooks/report/final_pga_golf_data_winners.ipynb), [our Jupyter Notebook Points](./notebooks/report/data analysis 1.ipynb) or our [presentation](./Golf_Sponsorship_for_our_client.pdf).
 
 For any additional questions, please contact **Elliott Iturbe at eaiturbe@bsc.edu, Cameron DeArman at cmdearma@bsc.edu, or Alex Valencia at asvalencia1688@gmail.com**
 
@@ -63,6 +63,6 @@ For any additional questions, please contact **Elliott Iturbe at eaiturbe@bsc.ed
 ├── data                                  <- data files used for analyses
 ├── images                                <- visualizations created
 ├── notebooks                             <- code written for project with explanation, as well as working ├──notebooks of members
-├── microsoftmovieanalysispowerpoint.pdf  <- PDF version of powerpoint
+├── Golf_Sponsorship_for_our_client.pdf   <- PDF version of powerpoint
 └── README.md                             <- overview of project
 ```
