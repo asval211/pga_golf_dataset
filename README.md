@@ -23,17 +23,13 @@ This visualization shows the three most correlated values to **money**.
 
 ![graph1](./images/3mostcorr.png)
 
-This is a visual illistrates the correlation between the price of the house and the date sold.
+This visualization shows the amount of money earned by winners and non-winners in a given year.
 
-![graph2](./images/priceofhomebydate.png)
+![graph2](./images/Money bywinners:nonwinnersbox.png)
 
-This visuals x-axis is the predicted values and the y-axis is the true values for the baseline model.
+This visualization shows the amount of points accumulated by winners and non-winners in a given year.
 
-![graph3](./images/baselinescatter.png)
-
-This visuals x-axis is the predicted values and the y-axis is the true values for the final model.
-
-![graph4](./images/Finalmodelscatter.png)
+![graph3](./images/Pointsbywinners:nonwinnersbox.png)
 
 
 During development we used a basic baseline model for all of our three models which yielded various scores including accuracy, precision and recall based on which was the appropriate score for the model. For all our models we tested, please refer back to the baseline models for score comparison. 
