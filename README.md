@@ -6,7 +6,7 @@
 The goal of this project is to create the best models for owners of a small company in order for them to make a business decision on which golfer they wish to sponsor. Descriptive analyses of data on previous statistics revealed that our models would take in a number of features involving all aspects of the game of golf.
 
 ## Business Problem
-Small company would like to sponsor a golfer and needs to know how impactful their season will be. To help them in this area, we will create multiple models to help predict different targets (money, points, and winners) in order to help them in this decision proccess.
+Small company would like to sponsor a golfer and needs to know how impactful their season will be. To help them in this area, we will create multiple models to help predict different targets (money, points, and winners) in order to help them in this decision process.
 
 ## Data
 We examined data on rounds, gir, average_putts, average_scrambling, average_score, points, top_10, average_sg_putts, average_sg_total, sg:ott, sg:apr, sg:arg, distance_fairway, and winners against **money**.
